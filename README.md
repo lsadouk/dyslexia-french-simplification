@@ -217,7 +217,7 @@ The standalone HTML file (`app/LectureFacile.html`) can also be deployed on GitH
   title={Automatic Generation of Dyslexia-Friendly French Educational Texts
          Using Fine-Tuned LLMs: A Phonics-Aware Approach for Moroccan
          Primary School Children},
-  author={Sadouk, Lamyaa},
+  author={Sadouk, Lamyaa and Gadi, Taoufiq},
   journal={},
   year={2026},
   note={Dataset: https://huggingface.co/datasets/lsadouk1111/dyslexia-french-cp-ce1,
