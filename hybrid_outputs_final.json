@@ -1,0 +1,92 @@
+[
+  {
+    "id": "T174",
+    "original": "Un chat est sur le toit. Il regarde les oiseaux. Un oiseau s'envole. Le chat saute. Il manque l'oiseau.",
+    "model_output": "Un chat est sur le toit.\nIl re-gar-de les oi-seaux.\nUn oi-seau s'en-vo-le.\nLe chat sau-te.\nIl man-que l'oi-seau.",
+    "hybrid_output": "Un chat est sur le toit.\nIl re-gar-de les oi-seaux.\nUn oi-seau s'en-vo-le.\nLe chat sau-te.\nIl man-que l'oi-seau."
+  },
+  {
+    "id": "T263",
+    "original": "La cloche de l'école sonne trois fois par jour. Elle sonne le matin pour l'entrée. Elle sonne à midi pour la récré du repas. Elle sonne à quatre heures pour la sortie. Quand les enfants entendent la cloche, ils savent quoi faire. C'est comme un signal magique.",
+    "model_output": "La clo-che de l'é-co-le son-ne trois fois par jour.\nEl-le son-ne le ma-tin pour l'en-trée.\nEl-le son-ne à mi-di pour la ré-cré du re-pas.\nEl-le son-ne à qua-tre heu-res pour la sor-tie.\nQuand les en-fants en-ten-dent la clo-che, ils sa-vent quoi fai-re.\nC'est com-me un si-gnal ma-gi-que.",
+    "hybrid_output": "La clo-che de l'é-co-le son-ne trois fois par jour.\nEl-le son-ne le ma-tin pour l'en-trée.\nEl-le son-ne à mi-di pour la ré-cré du re-pas.\nEl-le son-ne à qua-tre heu-res pour la sor-tie.\nQuand les en-fants en-ten-dent la clo-che, ils sa-vent quoi fai-re.\nC'est com-me un si-gnal ma-gi-que."
+  },
+  {
+    "id": "T314",
+    "original": "— Mets ton cœur dans tout ce que tu fais.\n— Tu as beaucoup de potentiel que tu ne vois pas.\n— Tu es capable de réaliser de grandes choses.\n— Rappelle-toi la première fois que tu devais voler.",
+    "model_output": "– Met-s ton cœur dans tout ce que tu fait.\n– Tu as beau-coup de po-ten-tiel que tu ne vois pas.\n– Tu es ca-pa-ble de ré-a-li-ser de gran-des cho-ses.\n– Rap-pel-le-toi la pre-miè-re fois que tu de-vais vo-ler.",
+    "hybrid_output": "– Mets ton cœur dans tout ce que tu fait.\n– Tu as beau-coup de po-ten-tiel que tu ne vois pas.\n– Tu es ca-pa-ble de réa-li-ser de gran-des cho-ses.\n– Rap-pel-le-toi la pre-miè-re fois que tu de-vais vo-ler."
+  },
+  {
+    "id": "T191",
+    "original": "Lou prend ses crayons de couleur. Elle dessine une maison avec un toit rouge. Elle ajoute un soleil jaune. Elle montre le dessin à maman. Maman est contente.",
+    "model_output": "Lou pren-d ses cra-yons de cou-leur.\nEl-le des-si-ne u-ne mai-son a-vec un toit rou-ge.\nEl-le a-jou-te un so-leil jau-ne.\nEl-le mon-tre le des-sin à ma-man.\nMa-man est con-ten-te.",
+    "hybrid_output": "Lou prend ses cra-yons de cou-leur.\nEl-le des-si-ne u-ne mai-son a-vec un toit rou-ge.\nEl-le a-jou-te un so-leil jau-ne.\nEl-le mon-tre le des-sin à ma-man.\nMa-man est con-ten-te."
+  },
+  {
+    "id": "T140",
+    "original": "Un petit tisserand était marié à une femme d'une grande méchanceté. Celle-ci traitait son mari avec dureté : tout ce qu'il disait ou faisait la mettait immédiatement en colère. Le petit tisserand était très malheureux. Il se rendait souvent dans une caverne, près de la ville. Et là, loin de tous, le pauvre homme pleurait et se lamentait durant des heures.",
+    "model_output": "Un pe-tit ti-sser-and é-tait ma-rie à u-ne fem-me mé-chan-te.\nEl-le traî-tait son mi-ri a-vec du-re-té.\nIl di-sait ou fai-sait quelque cho-se, el-le s'en fâ-chait im-mé-di-a-te-ment.\nLe pe-tit ti-sser-and é-tait très mal-heu-reux.\nIl se ren-dait sou-vent dans u-ne ca-ver-ne, près de la vil-le.\nLà, loin de tous, il pleu-rait et se lam-en-tai-vait dur-ant des heu-res.",
+    "hybrid_output": "Un pe-tit ti-sser-and é-tait ma-rie à u-ne fem-me mé-chan-te.\nEl-le traî-tait son mi-ri a-vec du-re-té.\nIl di-sait ou fai-sait quel-que cho-se, el-le s'en fâ-chait im-mé-dia-te-ment.\nLe pe-tit ti-sser-and é-tait très mal-heu-reux.\nIl se ren-dait sou-vent dans u-ne ca-ver-ne, près de la vil-le.\nLà, loin de tous, il pleu-rait et se lam-en-tai-vait dur-ant des heu-res."
+  },
+  {
+    "id": "T092",
+    "original": "Notre quartier, c'est un petit morceau de la ville.\nIl est tout près de la gare. On l'appelle le quartier de la gare.\nNous connaissons le boulanger, le boucher, les vendeurs de légumes.\nNous connaissons beaucoup de gens que nous rencontrons souvent.\nNous allons à l'école à pied.\nNous retrouvons souvent nos copains dans la rue, au jardin, à la bibliothèque.",
+    "model_output": "No-tre quar-tier, c'est un pe-tit mor-ceau de la vil-le.\nIl est tout près de la ga-re. On l'ap-pel-le le quar-tier de la ga-re.\nNous con-nais-sons le bou-lan-ger, le bou-cher, les ven-deurs de lé-gu-mes.\nNous con-nais-sons beau-coup de gens que nous ren-con-trons sou-vent.\nNous al-lons à l'é-co-le à pied.\nNous re-trou-vons sou-vent nos co-pains dans la rue, au jar-din, à la bi-blio-thè-que.",
+    "hybrid_output": "No-tre quar-tier, c'est un pe-tit mor-ceau de la vil-le.\nIl est tout près de la ga-re. On l'ap-pel-le le quar-tier de la ga-re.\nNous con-nais-sons le bou-lan-ger, le bou-cher, les ven-deurs de lé-gu-mes.\nNous con-nais-sons beau-coup de gens que nous ren-con-trons sou-vent.\nNous al-lons à l'é-co-le à pied.\nNous re-trou-vons sou-vent nos co-pains dans la rue, au jar-din, à la bi-blio-thè-que."
+  },
+  {
+    "id": "T316",
+    "original": "C'est le soir, Lila a rendez-vous avec ses amis imaginaires. Elle voit un monstre qui s'appelle Doli, qui a un œil et une grande bouche. Ce monstre a deux cornes et deux pattes. Il se cache sous les lits. Il aime manger des bananes et des bonbons. Lila voit un autre monstre qui s'appelle Lodi, qui a une large bouche et neuf dents. Il n'a pas de bras et pas de pattes. Il se cache dans les placards. Ce monstre Lodi mange tous les vêtements. Lila aime faire découvrir ce monde imaginaire à sa maman.",
+    "model_output": "C'est le soir. Li-la a ren-dez-vous a-vec ses a-mis ima-gi-nai-res.\nEl-le voit un mon-stre qui s'ap-pel-le Do-li.\nDo-li a un grand œil et u-ne gran-de bou-che.\nIl a deux corn-es et deux pat-tes.\nIl se ca-che sous les lits.\nIl ai-me man-ger des ba-na-nes et des bon-bons.\nLi-la voit aus-si un au-tre mon-stre qui s'ap-pel-le Lo-di.\nLo-di a u-ne gran-de bou-che et neuf dents.\nIl n'a pas de bras ni de pat-tes.\nIl se ca-che dans les pla-cards.\nCe mon-stre man-ge tous les vê-te-ments.\nLi-la ai-me fai-re dé-cou-vir ce mon-de ima-gi-nai-re à sa ma-man.",
+    "hybrid_output": "C'est le soir. Li-la a ren-dez-vous a-vec ses a-mis i-ma-gi-nai-res.\nEl-le voit un mon-stre qui s'ap-pel-le Do-li.\nDo-li a un grand œil et u-ne gran-de bou-che.\nIl a deux corn-es et deux pat-tes.\nIl se ca-che sous les lits.\nIl ai-me man-ger des ba-na-nes et des bon-bons.\nLi-la voit aus-si un au-tre mon-stre qui s'ap-pel-le Lo-di.\nLo-di a u-ne gran-de bou-che et neuf dents.\nIl n'a pas de bras ni de pat-tes.\nIl se ca-che dans les pla-cards.\nCe mon-stre man-ge tous les vê-te-ments.\nLi-la ai-me fai-re dé-cou-vir ce mon-de i-ma-gi-nai-re à sa ma-man."
+  },
+  {
+    "id": "T054",
+    "original": "En 1960, mon grand-père avait vingt ans.\nSa première voiture était une 2 CV.\nOn l'appelait aussi la « Deudeuche » ou la « deux pattes ».\nIl nous en parle souvent. Elle représente toute une époque.\nC'était une voiture française qui ne coûtait pas cher et qui était facile à réparer.\nElle passait partout, en ville comme dans les champs.\nAvec sa suspension souple, c'était la voiture tout terrain idéale.\nOn disait même qu'elle pouvait traverser un champ labouré avec un panier d'œufs sans en casser un.\nTout le monde pouvait la conduire. Elle plaisait aux débutants et aux coureurs.\nGrâce à son toit décapotable, on se sentait en vacances.\nQue de souvenirs avec cette voiture !",
+    "model_output": "Mon grand-pe-re a-vait vi-nt ans en 1960.\nSa pre-miè-re voi-tu-re é-tait u-ne 2 CV.\nOn l'ap-pelait aus-si la « Deu-deu-che » ou la « deux pat-tes ».\nIl nous en par-le sou-vent. El-le re-pré-sen-te tou-te u-ne é-po-que.\nC'é-tait u-ne voi-tu-re fran-çai-se bon mar-che et fa-ci-le à ré-pa-rer.\nEl-le pas-sait par-tout, en vil-le com-me dans les champs.\nA-vec sa sus-pen-sion sou-ple, el-le é-tait la voi-tu-re tout ter-rain i-di-a-le.\nOn di-sait que el-le pou-vait tra-ver-ser un champ la-bu-ré a-vec un pa-nier d'œufs sans cas-ser un.\nTout le mon-de pou-vait la con-dui-re. El-le plai-sait aux dé-but-ants et aux cou-reurs.\nGrâ-ce à son toit dé-ca-po-ta-ble, on se sen-tait en va-can-ces.\nQue de sou-ve-nirs a-vec cet-te voi-tu-re !",
+    "hybrid_output": "Mon grand-pe-re a-vait vint ans en 1960.\nSa pre-miè-re voi-tu-re é-tait u-ne 2 CV.\nOn l'ap-pe-lait aus-si la « Deu-deu-che » ou la « deux pat-tes ».\nIl nous en par-le sou-vent. El-le re-pré-sen-te tou-te u-ne é-po-que.\nC'é-tait u-ne voi-tu-re fran-çai-se bon mar-che et fa-ci-le à ré-pa-rer.\nEl-le pas-sait par-tout, en vil-le com-me dans les champs.\nA-vec sa sus-pen-sion sou-ple, el-le é-tait la voi-tu-re tout ter-rain i-dia-le.\nOn di-sait que el-le pou-vait tra-ver-ser un champ la-bu-ré a-vec un pa-nier d'œufs sans cas-ser un.\nTout le mon-de pou-vait la con-dui-re. El-le plai-sait aux dé-but-ants et aux cou-reurs.\nGrâ-ce à son toit dé-ca-po-ta-ble, on se sen-tait en va-can-ces.\nQue de sou-ve-nirs a-vec cet-te voi-tu-re !"
+  },
+  {
+    "id": "T278",
+    "original": "— Est-ce que tu aimerais faire du sport avec moi ?\n— Ça dépend de quel sport.\n— Je te propose un match de foot.\n— Ça me va, mais il faut d'autres joueurs. C'est un sport collectif.\n— Je vais en parler avec mes voisins et mon frère.\n— OK, je me charge du ballon et du sifflet pour l'arbitre.",
+    "model_output": "– Est-ce que tu ai-me-rais fai-re du sport a-vec moi ?\n– Ça dé-pend de quel sport.\n– Je te pro-po-se un match de foot.\n– Ça me va, mais il faut d'au-tres joueurs. C'est un sport co-lec-ti-f.\n– Je vais en par-ler a-vec mes voi-sins et mon frè-re.\n– OK, je me char-ge du bal-lon et du si-flet pour l'ar-bi-tre.",
+    "hybrid_output": "– Est-ce que tu ai-me-rais fai-re du sport a-vec moi ?\n– Ça dé-pend de quel sport.\n– Je te pro-po-se un match de foot.\n– Ça me va, mais il faut d'au-tres joueurs. C'est un sport co-lec-tif.\n– Je vais en par-ler a-vec mes voi-sins et mon frè-re.\n– OK, je me char-ge du bal-lon et du si-flet pour l'ar-bi-tre."
+  },
+  {
+    "id": "T104",
+    "original": "Le lendemain, Jacques se réveille avec la faim au ventre.\nPourquoi fait-il aussi sombre ce matin ? Pourquoi le soleil n'éclaire-t-il pas sa chambre ?\nJacques se précipite à la fenêtre.\nSon haricot a poussé, poussé haut dans le ciel, poussé jusqu'aux nuages.\nC'est donc bien un haricot magique !\nJacques n'hésite pas une seconde. D'un bond, il enjambe la fenêtre.\nIl attrape la tige et, de feuille en feuille, il monte, monte, monte.\nBien au-dessus du toit de la maison, bien au-dessus de la plus haute cime des arbres.\nJacques grimpe toujours. Il traverse les nuages. Il est dans le ciel.\nJuste là, au bout de la tige, il voit une large route.\nJacques la suit. Il marche, marche, marche longtemps.\nIl arrive au pied d'un château magnifique.",
+    "model_output": "Le len-de-main, Jac-ques se ré-veil-le a-vec la faim au ven-tre.\nIl pre-fère pen-ser que son har-i-cot est trop grand pla-ce.\nMais pour-quoi fait-il aus-si som-bre ce ma-tin ?\nPour-quoi le so-leil ne s'é-clai-re pas sa cham-bre ?\nJac-ques court à la fe-nê-tre.\nSon ha-ri-cot a pous-sé très haut dans le ciel.\nC'est un ha-ri-cot ma-gi-que !\nJac-ques saute sur la fe-nê-tre.\nIl at-tra-pe la ti-ge et mon-te de feuil-le en feuil-le.\nIl tra-ver-se les nu-a-ges. Il est dans le ciel.\nAu bout de la ti-ge, il voit u-ne ra-te.\nJac-ques la suit. Il mar-che lon-gs temps.\nIl ar-rive au pied d'un châ-teau ma-gni-fi-que.",
+    "hybrid_output": "Le len-de-main, Jac-ques se ré-veil-le a-vec la faim au ven-tre.\nIl pre-fè-re pen-ser que son har-i-cot est trop grand pla-ce.\nMais pour-quoi fait-il aus-si som-bre ce ma-tin ?\nPour-quoi le so-leil ne s'é-clai-re pas sa cham-bre ?\nJac-ques court à la fe-nê-tre.\nSon ha-ri-cot a pous-sé très haut dans le ciel.\nC'est un ha-ri-cot ma-gi-que !\nJac-ques sau-te sur la fe-nê-tre.\nIl at-tra-pe la ti-ge et mon-te de feuil-le en feuil-le.\nIl tra-ver-se les nua-ges. Il est dans le ciel.\nAu bout de la ti-ge, il voit u-ne ra-te.\nJac-ques la suit. Il mar-che longs temps.\nIl ar-ri-ve au pied d'un châ-teau ma-gni-fi-que."
+  },
+  {
+    "id": "T091",
+    "original": "Notre rue s'appelle rue de la Fontaine.\nNous habitons une petite maison ancienne.\nSur notre trottoir, il y a seulement des maisons.\nEn face de chez nous, on a construit un grand immeuble et des magasins.\nDans l'immeuble, les gens habitent dans des appartements.\nNotre rue est étroite.\nDe notre fenêtre, on voit un panneau d'interdiction de stationner.\nLes clients des magasins garent leur voiture dans un parking souterrain.\nDans notre rue, nous connaissons tous nos voisins.",
+    "model_output": "No-tre rue s'ap-pel-le rue de la Fa-ton-ne.\nNous ha-bi-tons u-ne pe-tite mai-son an-cien-ne.\nSur no-tre trot-toir, il y a seu-lement des mai-sons.\nEn fa-ce de chez nous, on a con-strui-t un grand im-meu-ble et des ma-ga-sins.\nDans l'im-meu-ble, les gens ha-bi-tent dans des ap-par-ta-ments.\nNo-tre rue est é-troi-te.\nDe no-tre fe-nê-tre, on voit un pan-neau d'in-ter-di-ction.\nLes clients des ma-ga-sins ga-rent leur voi-tu-re dans un par-king.\nDans no-tre rue, nous con-nais-sons tous nos voi-sins.",
+    "hybrid_output": "No-tre rue s'ap-pel-le rue de la Fa-ton-ne.\nNous ha-bi-tons u-ne pe-ti-te mai-son an-cien-ne.\nSur no-tre trot-toir, il y a seu-le-ment des mai-sons.\nEn fa-ce de chez nous, on a con-struit un grand im-meu-ble et des ma-ga-sins.\nDans l'im-meu-ble, les gens ha-bi-tent dans des ap-par-ta-ments.\nNo-tre rue est é-troi-te.\nDe no-tre fe-nê-tre, on voit un pan-neau d'in-ter-di-ction.\nLes clients des ma-ga-sins ga-rent leur voi-tu-re dans un par-king.\nDans no-tre rue, nous con-nais-sons tous nos voi-sins."
+  },
+  {
+    "id": "T284",
+    "original": "— Lila, regarde ! Quel est cet insecte qui est par terre ?\n— Je pense que c'est une coccinelle.\n— Non, c'est une araignée.\n— Tu ne vois pas ses pattes ?\n— Oui, tu as raison. Elle a le même nombre de pattes que la sauterelle.\n— Non, la sauterelle a 6 pattes, mais l'araignée en a 8. Je l'ai vu dans un livre.",
+    "model_output": "– Li-la, re-gar-de ! Quel est cet in-sec-te qui est par ter-re ?\n– Je pen-se que c'est u-ne coc-ci-nel-le.\n– Non, c'est u-ne a-rai-gnée.\n– Tu ne vois pas ses pat-tes ?\n– Oui, tu as ra-ison. El-le a le mê-me nu-mer-o de pat-tes que la sau-terel-le.\n– Non, la sau-terel-le a 6 pat-tes, mais l'a-rai-gnée en a 8.\n– Je l'ai vu dans un li-vre.",
+    "hybrid_output": "– Li-la, re-gar-de ! Quel est cet in-sec-te qui est par ter-re ?\n– Je pen-se que c'est u-ne coc-ci-nel-le.\n– Non, c'est u-ne a-rai-gnée.\n– Tu ne vois pas ses pat-tes ?\n– Oui, tu as rai-son. El-le a le mê-me nu-mer-o de pat-tes que la sau-te-rel-le.\n– Non, la sau-te-rel-le a 6 pat-tes, mais l'a-rai-gnée en a 8.\n– Je l'ai vu dans un li-vre."
+  },
+  {
+    "id": "T101",
+    "original": "Le lendemain matin, Jacques passe une corde au cou de Blanchette et part au marché.\nEn route, il rencontre un vieillard tout vieux, tout courbé sur son bâton.\n– Bonjour, Jacques, tu vas au marché avec ta vache ?\nJacques ne connait pas le vieillard. Comment connait-il son nom ?\nIl se dit : les vieux sont sages, ils connaissent beaucoup de choses.\n– Que vas-tu faire au marché avec Blanchette ?\n– Je vais vendre notre vache. Ma mère et moi n'avons plus rien d'autre pour vivre.",
+    "model_output": "Le len-de-main ma-tin, Jac-ques pas-se u-ne cor-de au cou de Blan-chet-te.\nIl par-t au mar-ché.\nIl ren-con-tre un vieil-lard tout vieux, tout cour-bé sur son bâ-ton.\nLe vieil-lard lui de-man-de : « Bon-jour, Ja-cques, tu vas au mar-ché a-vec ta va-che ? »\nJa-cques ne con-nait pas le vieil-lard.\nIl se dit : « Les vieux sont sa-ges, ils con-nais-sent beau-coup de cho-ses. »\nLe vieil-lard lui de-man-de : « Que vas-tu fai-re au mar-ché a-vec Blan-chet-te ? »\n« Je vais ven-dre no-tre va-che. Ma mè-re et moi n'a-vons plus rien d'au-tre pour vi-vre. »",
+    "hybrid_output": "Le len-de-main ma-tin, Jac-ques pas-se u-ne cor-de au cou de Blan-chet-te.\nIl part au mar-ché.\nIl ren-con-tre un vieil-lard tout vieux, tout cour-bé sur son bâ-ton.\nLe vieil-lard lui de-man-de : « Bon-jour, Ja-cques, tu vas au mar-ché a-vec ta va-che ? »\nJa-cques ne con-nait pas le vieil-lard.\nIl se dit : « Les vieux sont sa-ges, ils con-nais-sent beau-coup de cho-ses. »\nLe vieil-lard lui de-man-de : « Que vas-tu fai-re au mar-ché a-vec Blan-chet-te ? »\n« Je vais ven-dre no-tre va-che. Ma mè-re et moi n'a-vons plus rien d'au-tre pour vi-vre. »"
+  },
+  {
+    "id": "T325",
+    "original": "Peu après, les fantômes du château hanté se réunissent. Citron leur montre ses photos.\n— Tiens, dit Fleurette. Il y a un fantôme coloré chez nous ! Regardez, on dirait une fraise. Et là, un kiwi.",
+    "model_output": "Peu a-près, les fan-tomes du cha-teau han-té se ré-u-nis-sent.\nCit-ron leur mon-tre ses pho-tos.\nFleu-ret-te dit : « Tiens, il y a un fan-tom-e cou-loré chez nous ! Re-gar-dez, on di-rait u-ne frai-se. »\n« Et là, un ki-wi. »",
+    "hybrid_output": "Peu a-près, les fan-to-mes du cha-teau han-té se réu-nis-sent.\nCit-ron leur mon-tre ses pho-tos.\nFleu-ret-te dit : « Tiens, il y a un fan-tom-e cou-lo-ré chez nous ! Re-gar-dez, on di-rait u-ne frai-se. »\n« Et là, un ki-wi. »"
+  },
+  {
+    "id": "T231",
+    "original": "La classe de CE1 visite le musée des sciences. Il y a des planètes accrochées au plafond. Un guide explique comment fonctionne le soleil. Les enfants regardent à travers un grand télescope. Ils voient la lune de très près. C'est une journée inoubliable.",
+    "model_output": "La clas-se de CE1 vi-si-te le mu-sée des scien-ces.\nIl y a des pla-nè-tes ac-cro-chées au pla-fon.\nUn gui-de ex-pli-que com-ment fonc-ti-on-ne le so-leil.\nLes en-fants re-gar-dent à tra-vers un grand té-les-co-pe.\nIls voient la lu-ne de très près.\nC'est u-ne jour-née in-ou-blia-ble.",
+    "hybrid_output": "La clas-se de CE1 vi-si-te le mu-sée des scien-ces.\nIl y a des pla-nè-tes ac-cro-chées au pla-fon.\nUn gui-de ex-pli-que com-ment fonc-tion-ne le so-leil.\nLes en-fants re-gar-dent à tra-vers un grand té-les-co-pe.\nIls voient la lu-ne de très près.\nC'est u-ne jour-née in-ou-blia-ble."
+  }
+]
