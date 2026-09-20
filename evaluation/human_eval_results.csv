@@ -1,17 +1,17 @@
 ﻿Text_ID,T1_C1,T1_C2,T1_C3,T1_C4,T1_C5,T2_C1,T2_C2,T2_C3,T2_C4,T2_C5,T3_C1,T3_C2,T3_C3,T3_C4,T3_C5,Mean_C1,Mean_C2,Mean_C3,Mean_C4,Mean_C5,Mean_Overall,T1_Comment,T2_Comment,T3_Comment
-T174,5,5,4,5,4,5,5,5,5,5,4,4,4,5,4,4.67,4.67,4.33,5.0,4.33,4.6,Attention aux mots liés avec apostrophe (s'en).,"Excellent, parfaitement adapté.",Bon.
-T263,4,5,3,5,4,4,5,5,5,4,5,5,5,5,5,4.33,5.0,4.33,5.0,4.33,4.6,Les mots outils ne nécessitent pas toujours un découpage.,"Très bon, phrases parfois un peu longues.",Excellent.
-T314,4,3,1,2,1,3,3,4,5,3,4,4,4,4,3,3.67,3.33,3.0,3.67,2.33,3.2,"Danger: modèle altère la grammaire (Met-s, tu fait).","Trop abstrait pour CP/CE1 en difficulté (potentiel, réaliser).",Faute orthographique introduite (fait au lieu de fais).
-T191,5,5,2,5,2,5,5,4,5,5,4,5,2,5,3,4.67,5.0,2.67,5.0,3.33,4.13,Consonnes muettes finales ne doivent pas être isolées (pren-d).,"Très bon, petite correction de découpage (pren-d).",pren-d incorrect.
-T140,3,2,1,1,1,3,3,3,4,2,3,2,1,2,1,3.0,2.33,1.67,2.33,1.33,2.13,"Échec critique: hallucinations lexicales (lam-en-tai-vait, mi-ri).","Trop difficile, simplification partielle réussie.",À corriger entièrement — hallucinations.
-T092,4,4,4,5,4,4,4,5,5,4,4,4,4,5,4,4.0,4.0,4.33,5.0,4.0,4.27,Bon résultat global sur ce passage descriptif.,"Globalement bon, vocabulaire parfois trop avancé.",Bon.
-T316,5,5,3,5,4,5,5,4,5,5,4,4,4,4,4,4.67,4.67,3.67,4.67,4.33,4.4,Modèle efficace pour raccourcir les phrases.,"Très adapté, une petite correction de découpage (corn-es).",Bon.
-T054,4,3,2,4,2,5,4,5,5,4,4,4,2,4,3,4.33,3.67,3.0,4.33,3.0,3.67,"Présence de nombres et tirets perturbe le modèle (vi-nt, grand-pe-re).","Bon texte, vocabulaire légèrement complexe (époque).",vi-nt incorrect.
-T278,5,4,4,5,4,5,5,5,5,5,4,4,4,5,4,4.67,4.33,4.33,5.0,4.33,4.53,Bon comportement sur les structures de dialogues.,"Excellent, parfaitement adapté.",Bon.
-T104,4,5,4,2,3,4,4,5,3,4,4,4,4,2,3,4.0,4.33,4.33,2.33,3.33,3.67,Ajout non justifié: Jacques saute sur la fenêtre.,Bonne lisibilité mais perte de fidélité (Jacques saute).,Phrase inventée (Jacques saute sur la fenêtre).
-T091,4,5,1,2,1,4,4,3,4,4,4,4,1,3,2,4.0,4.33,1.67,3.0,2.33,3.07,Hallucination grave: Fontaine → Fa-ton-ne.,Correct mais erreur importante de découpage (Fa-ton-ne).,Nom propre déformé (Fa-ton-ne au lieu de Fontaine).
-T284,5,4,2,4,2,4,4,3,5,4,4,4,4,3,3,4.33,4.0,3.0,4.0,3.0,3.67,Le son 'ai' ne doit jamais être coupé en a-i (ra-ison).,"Bonne adaptation, découpage à corriger (sau-terel-le).",numéro sans accent.
-T101,5,4,3,5,4,5,5,5,5,5,4,4,2,4,3,4.67,4.33,3.33,4.67,4.0,4.2,Belle réussite syntaxique; découpage 'cq' pose problème (Ja-cques).,"Excellent, parfaitement adapté.",Ja-cques incorrect.
-T325,4,4,2,4,2,4,4,4,5,4,4,4,4,4,4,4.0,4.0,3.33,4.33,3.33,3.8,L'IA fait des fautes de frappe lors de la syllabification.,"Bonne adaptation, erreurs de découpage (fan-tom-e).",Bon.
-T231,4,4,3,4,3,5,5,5,5,5,4,4,4,5,4,4.33,4.33,4.0,4.67,4.0,4.27,Supprimer la consonne muette finale (pla-fon) est une erreur pédagogique.,"Excellent, parfaitement utilisable.",Bon.
-MEAN,4.33,4.13,2.6,3.87,2.73,4.33,4.33,4.33,4.73,4.2,4.0,4.0,3.27,4.0,3.33,4.22,4.16,3.4,4.2,3.42,3.88,,,
+T174,5,5,4,5,5,5,5,4,5,5,4,5,4,4,5,4.67,5.0,4.0,4.67,5.0,4.67,Texte très court et accessible. Découpage syllabique facilite la lecture.,"Excellent, parfaitement adapté.",T174 OK.
+T263,4,4,4,5,4,5,4,5,5,5,3,4,3,2,4,4.0,4.0,4.0,4.0,4.33,4.07,"Clair, sens bien conservé. Certaines phrases peuvent être raccourcies.","Très bon, phrases parfois un peu longues.",Phrases trop longues. Fidélité problématique.
+T314,5,4,4,5,4,4,2,2,3,2,3,4,1,2,2,4.0,3.33,2.33,3.33,2.67,3.13,Phrases courtes. Certains mots restent difficiles pour CP/CE1.,"Trop abstrait pour CP/CE1 (potentiel, réaliser). C3 erreurs.",Faute orthographique (fait/fais). C3 très mauvais.
+T191,5,5,4,5,5,5,5,5,5,5,4,4,2,2,2,4.67,4.67,3.67,4.0,4.0,4.2,"Simple, concret et bien structuré. Vérification du découpage utile.","Très bon, pren-d corrigé.",pren-d incorrect. Fidélité mauvaise.
+T140,4,4,4,5,4,2,2,2,2,2,2,2,4,3,2,2.67,2.67,3.33,3.33,2.67,2.93,"Simplification accessible, conserve bien l'idée générale.","Trop difficile. Hallucinations (mi-ri, lam-en-tai-vait).",Hallucinations graves. Inutilisable.
+T092,4,5,4,5,4,4,4,5,5,4,2,3,2,2,1,3.33,4.0,3.67,4.0,3.0,3.6,Globalement facile à comprendre. Dernière phrase un peu longue.,"Globalement bon, vocabulaire parfois trop avancé.",Phrases trop longues. Fidélité mauvaise. Inutilisable.
+T316,5,4,4,5,4,5,4,4,5,5,1,3,1,2,3,3.67,3.67,3.0,4.0,4.0,3.67,"Description claire, phrases bien séparées.","Très adapté, une petite correction (corn-es).",Phrases trop longues. C3 très mauvais. Fidélité mauvaise.
+T054,5,4,4,5,4,4,3,3,4,3,3,3,3,2,3,4.0,3.33,3.33,3.67,3.33,3.53,Court et compréhensible. Mots 'Deudeuche' et 'époque' à expliquer.,"Bon texte, vocabulaire légèrement complexe (époque).",Découpage acceptable. Fidélité mauvaise.
+T278,4,4,4,5,4,5,4,4,5,5,4,4,3,3,3,4.33,4.0,3.67,4.33,4.0,4.07,"Dialogue clair, répliques compréhensibles.","Excellent, parfaitement adapté.",Correct dans l'ensemble.
+T104,5,5,4,4,4,4,4,4,4,4,2,4,3,4,4,3.67,4.33,3.67,4.0,4.0,3.93,Phrases claires. Éviter d'ajouter des informations non présentes.,Bonne lisibilité mais perte de fidélité (Jacques saute).,Ajout inventé (Jacques saute).
+T091,5,5,4,5,4,4,4,4,4,4,3,4,2,3,3,4.0,4.33,3.33,4.0,3.67,3.87,"Clair, découpage aide la lecture. Quelques syllabes à vérifier.",Correct mais erreur (Fa-ton-ne).,Nom propre déformé (Fa-ton-ne).
+T284,4,4,4,5,4,5,4,4,5,5,5,4,2,2,3,4.67,4.0,3.33,4.0,4.0,4.0,"Dialogue vivant, sens bien conservé.","Bonne adaptation, découpage à corriger (sau-terel-le).",ra-ison incorrect. nu-mer-o sans accent.
+T101,5,4,4,5,4,3,2,2,3,2,3,3,2,3,3,3.67,3.0,2.67,3.67,3.0,3.2,"Bien restructuré, informations essentielles conservées.","Excellent, parfaitement adapté.",Découpage acceptable.
+T325,4,4,4,5,4,4,3,3,4,3,3,4,3,3,4,3.67,3.67,3.33,4.0,3.67,3.67,Court et compréhensible. Sens général bien conservé.,"Bonne adaptation, erreurs de découpage (fan-tom-e).",Découpage acceptable. Fidélité acceptable.
+T231,5,4,4,5,4,4,4,4,5,4,3,4,4,4,4,4.0,4.0,4.0,4.67,4.0,4.13,Clair et fidèle. Vocabulaire scientifique à expliquer.,"Excellent, parfaitement utilisable.",Découpage et fidélité acceptables.
+MEAN,4.6,4.33,4.0,4.93,4.13,4.2,3.6,3.67,4.27,3.87,3.0,3.67,2.6,2.73,3.07,3.93,3.87,3.42,3.98,3.69,3.78,,,
